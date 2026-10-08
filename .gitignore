@@ -1,0 +1,7 @@
+env/
+__pycache__/
+instance/
+*.db
+.env
+pyvenv.cfg
+tempCodeRunnerFile.py
